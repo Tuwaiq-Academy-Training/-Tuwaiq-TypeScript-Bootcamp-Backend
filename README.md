@@ -29,7 +29,7 @@ Hi Everyone, Welcome to the javascript bootcamp. This repository contains inform
 | Week 1| 4   |[Holiday](https://github.com/Tuwaiq-Academy-Training/js-express-introduction)|
 | Week 1| 5   |[Holiday](https://github.com/Tuwaiq-Academy-Training/advanced-express.js)|
 | Week 2| 1   |[Testing APIs](https://github.com/Tuwaiq-Academy-Training/Database-SQL.js) |
-| Week 2| 2   |[Middleware](https://github.com/Tuwaiq-Academy-Training/Database-SQL.js) |
+| Week 2| 2   |[Middleware](https://github.com/Tuwaiq-Academy-Training/middleware/blob/main/README.md) |
 | Week 2| 3   |[Database SQL](https://github.com/Tuwaiq-Academy-Training/Database-SQL.js) |
 | Week 2| 4   |[Prisma](https://github.com/Tuwaiq-Academy-Training/Tuwaiq-Javascript-Bootcamp-Backend)|--- |
 | Week 2| 5   |[File and Folder Structure (MVC)](https://github.com/Tuwaiq-Academy-Training/Prisma-Intermediate.js)| 
