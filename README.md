@@ -35,7 +35,7 @@ Hi Everyone, Welcome to the javascript bootcamp. This repository contains inform
 | Week 2| 5   |[File and Folder Structure (MVC)](https://github.com/Tuwaiq-Academy-Training/Prisma-Intermediate.js)| 
 | Week 3| 1   |[Security Concepts](https://github.com/Tuwaiq-Academy-Training/Security-Concepts/blob/main/README.md) |
 | Week 3| 2   |[Password hashing ](https://github.com/Tuwaiq-Academy-Training/Password-hashing/blob/main/README.md)| 
-| Week 3| 3   |[Validation with Zod](https://github.com/Tuwaiq-Academy-Training/Hashing-Cors)|
+| Week 3| 3   |[Validation with Zod](https://github.com/Tuwaiq-Academy-Training/Validation-with-Zod/blob/main/README.md)|
 | Week 3| 4   |[Authenticator-Authentication-JWT](https://github.com/Tuwaiq-Academy-Training/authenticator-authentication-Hashing.js)| 
 | Week 3| 5   |[Deployment](https://github.com/Tuwaiq-Academy-Training/authenticator-authentication-Hashing.js)| 
 | Week 4| 1   |[Capstone Project (Full-Stack)](https://github.com/Tuwaiq-Academy-Training/Full-Stack-Application)|
