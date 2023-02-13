@@ -32,7 +32,7 @@ Hi Everyone, Welcome to the javascript bootcamp. This repository contains inform
 | Week 2| 2   |[Middleware](https://github.com/Tuwaiq-Academy-Training/middleware/blob/main/README.md) |
 | Week 2| 3   |[Database SQL](https://github.com/Tuwaiq-Academy-Training/Database-SQL.js) |
 | Week 2| 4   |[Prisma](https://github.com/Tuwaiq-Academy-Training/Prisma/blob/main/README.md)|--- |
-| Week 2| 5   |[File and Folder Structure (MVC)](https://github.com/Tuwaiq-Academy-Training/Prisma-Intermediate.js)| 
+| Week 2| 5   |[File and Folder Structure (MVC)](https://github.com/Tuwaiq-Academy-Training/File-and-Folder-Structure-MVC-)| 
 | Week 3| 1   |[Security Concepts](https://github.com/Tuwaiq-Academy-Training/Security-Concepts/blob/main/README.md) |
 | Week 3| 2   |[Password hashing ](https://github.com/Tuwaiq-Academy-Training/Password-hashing/blob/main/README.md)| 
 | Week 3| 3   |[Validation with Zod](https://github.com/Tuwaiq-Academy-Training/Validation-with-Zod/blob/main/README.md)|
