@@ -23,17 +23,18 @@ Hi Everyone, Welcome to the javascript bootcamp. This repository contains inform
 
 | Week   | Day | Lesson |
 |:-----:|:---:|:------:|
-| Week 1| 1   |[Introduction Backend Development](https://github.com/Tuwaiq-Academy-Training/Js-Introduction-Backend-Development)|--- |
-| Week 1| 2   |[JSON and APIs](https://github.com/Tuwaiq-Academy-Training/JSON-and-APIs)|--- |
-| Week 1| 3   |[Express](https://github.com/Tuwaiq-Academy-Training/Express)|
+| Week 1| 1   |[Introduction Backend Development](https://github.com/Tuwaiq-Academy-Training/Js-Introduction-Backend-Development)- [JSON and APIs](https://github.com/Tuwaiq-Academy-Training/JSON-and-APIs)|--- |
+| Week 1| 2   |[Express](https://github.com/Tuwaiq-Academy-Training/Express) JS - [Testing APIs](https://github.com/Tuwaiq-Academy-Training/Testing-apis)|--- |
+| Week 1| 3   |[Express](https://github.com/Tuwaiq-Academy-Training/Express) TS - [Middleware](https://github.com/Tuwaiq-Academy-Training/middleware) |
 | Week 1| 4   |[Holiday](https://github.com/Tuwaiq-Academy-Training/-Tuwaiq-TypeScript-Bootcamp-Backend/blob/main/README.md)|
 | Week 1| 5   |[Holiday](https://github.com/Tuwaiq-Academy-Training/-Tuwaiq-TypeScript-Bootcamp-Backend/blob/main/README.md)|
-| Week 2| 1   |[Testing APIs](https://github.com/Tuwaiq-Academy-Training/Testing-apis) |
-| Week 2| 2   |[Middleware](https://github.com/Tuwaiq-Academy-Training/middleware) |
-| Week 2| 3   |[Database SQL](https://github.com/Tuwaiq-Academy-Training/Database-SQL.js) |
-| Week 2| 4   |[Prisma](https://github.com/Tuwaiq-Academy-Training/Prisma)|--- |
-| Week 2| 5   |[File and Folder Structure (MVC)](https://github.com/Tuwaiq-Academy-Training/File-and-Folder-Structure-MVC-)| 
-| Week 3| 1   |[Security Concepts](https://github.com/Tuwaiq-Academy-Training/Security-Concepts) |
+| Week 2| 1   |[Database SQL](https://github.com/Tuwaiq-Academy-Training/Database-SQL.js) |
+| Week 2| 2   |[Prisma](https://github.com/Tuwaiq-Academy-Training/Prisma) |
+| Week 2| 3   |[File and Folder Structure (MVC)](https://github.com/Tuwaiq-Academy-Training/File-and-Folder-Structure-MVC-) |
+| Week 2| 4   |Blog Application Development (Focus on Relationships and data validation) |--- |
+| Week 2| 5   |[Validation with Zod](https://github.com/Tuwaiq-Academy-Training/Validation-with-Zod) | 
+| Week 2| Weekend   |API Project | 
+| Week 3| 1   |ToDo App Development - [Security Concepts](https://github.com/Tuwaiq-Academy-Training/Security-Concepts) |
 | Week 3| 2   |[Password hashing ](https://github.com/Tuwaiq-Academy-Training/Password-hashing)| 
 | Week 3| 3   |[Validation with Zod](https://github.com/Tuwaiq-Academy-Training/Validation-with-Zod)|
 | Week 3| 4   |[Authenticator-Authentication-JWT](https://github.com/Tuwaiq-Academy-Training/authenticator-authentication-Hashing.js)| 
