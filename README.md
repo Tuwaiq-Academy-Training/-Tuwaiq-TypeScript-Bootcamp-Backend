@@ -28,7 +28,7 @@ Hi Everyone, Welcome to the javascript bootcamp. This repository contains inform
 | Week 1| 3   |[Express](https://github.com/Tuwaiq-Academy-Training/Express) TS - [Middleware](https://github.com/Tuwaiq-Academy-Training/middleware) |
 | Week 1| 4   |[Holiday](https://github.com/Tuwaiq-Academy-Training/-Tuwaiq-TypeScript-Bootcamp-Backend/blob/main/README.md)|
 | Week 1| 5   |[Holiday](https://github.com/Tuwaiq-Academy-Training/-Tuwaiq-TypeScript-Bootcamp-Backend/blob/main/README.md)|
-| Week 2| 1   |[Database SQL](https://github.com/Tuwaiq-Academy-Training/Database-SQL.js) |
+| Week 2| 1   |[Database SQL](https://github.com/Tuwaiq-Academy-Training/Database-SQL/tree/main) |
 | Week 2| 2   |[Prisma](https://github.com/Tuwaiq-Academy-Training/Prisma) |
 | Week 2| 3   |[File and Folder Structure (MVC)](https://github.com/Tuwaiq-Academy-Training/File-and-Folder-Structure-MVC-) |
 | Week 2| 4   |Blog Application Development (Focus on Relationships and data validation) |--- |
