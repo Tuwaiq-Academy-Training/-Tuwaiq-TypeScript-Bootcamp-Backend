@@ -39,6 +39,6 @@ Hi Everyone, Welcome to the javascript bootcamp. This repository contains inform
 | Week 3| 3   |[Validation with Zod](https://github.com/Tuwaiq-Academy-Training/Validation-with-Zod)|
 | Week 3| 4   |[Authenticator-Authentication-JWT](https://github.com/Tuwaiq-Academy-Training/authenticator-authentication-Hashing.js)| 
 | Week 3| 5   |[Deployment](https://github.com/Tuwaiq-Academy-Training/-Tuwaiq-TypeScript-Bootcamp-Backend/blob/main/README.md)| 
-| Week 4| 1   |[Capstone Project (Full-Stack)](https://github.com/Tuwaiq-Academy-Training/-Tuwaiq-TypeScript-Bootcamp-Backend/blob/main/README.md)|
+| Week 4| 1   |[Capstone Project (Full-Stack)](https://github.com/Tuwaiq-Academy-Training/Capstone-Project-Full-Stack-)|
 
 
