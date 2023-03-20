@@ -34,7 +34,7 @@ Hi Everyone, Welcome to the javascript bootcamp. This repository contains inform
 | Week 2| 4   |Blog Application Development (Focus on Relationships and data validation) |--- |
 | Week 2| 5   |[Validation with Zod](https://github.com/Tuwaiq-Academy-Training/Validation-with-Zod) | 
 | Week 2| Weekend   |API Project | 
-| Week 3| 1   |ToDo App Development - [Security Concepts](https://github.com/Tuwaiq-Academy-Training/Security-Concepts) |
+| Week 3| 1   |[ToDo App Development](https://github.com/Tuwaiq-Academy-Training/ToDo-App/tree/main/content) - [Security Concepts](https://github.com/Tuwaiq-Academy-Training/Security-Concepts) |
 | Week 3| 2   |[Password hashing ](https://github.com/Tuwaiq-Academy-Training/Password-hashing)| 
 | Week 3| 3   |[Validation with Zod](https://github.com/Tuwaiq-Academy-Training/Validation-with-Zod)|
 | Week 3| 4   |[Authenticator-Authentication-JWT](https://github.com/Tuwaiq-Academy-Training/authenticator-authentication-Hashing.js)| 
